@@ -1,6 +1,6 @@
 ## :sparkles:Template - Site Web par Black Bird
 
-Voici un template d'un site vitrine pour un bot discord en HTML/CSS.
+Voici un template d'un site vitrine pour un bot discord en HTML/CSS/JS.
 
 ## 📸 Images
 
