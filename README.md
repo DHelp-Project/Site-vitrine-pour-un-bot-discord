@@ -9,7 +9,7 @@ Voici un template d'un site vitrine pour un bot discord en HTML/CSS.
 
 ## :pencil: [Serveur Support](https://discord.gg/aC9RF7Kt8T)
 
-Si vous rencontrez des problèmes avec le code, rejoignez nous et demander de l'aide.
+Si vous rencontrez des problèmes avec le code, rejoignez nous et demander de l'aide. Merci de ne pas vous appropriez le code et de le revendre.
 
 
 Projet imaginé et réalisé par Satrex.
